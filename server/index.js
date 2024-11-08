@@ -23,7 +23,7 @@ app.use("/api/user", userRoutes);
 app.use("/api/post", postRoutes);
 app.use("/api/slide", slideRoutes);
 app.get("/", async (req, res) => {
-  res.status(200).json("Server is up and running");
+  res.status(200).json("welcome to server no: 8000");
 });
 
 app.use((err, req, res, next) => {
