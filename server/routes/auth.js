@@ -87,7 +87,7 @@ router.post("/login", async (req, res) => {
 // logout
 router.post("/logout", async (req, res) => {
   try {
-    const { username } = req.body;
+    const { user } = req.body;
 
     const token = jwt.sign(
       {
