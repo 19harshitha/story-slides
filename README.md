@@ -9,10 +9,17 @@ SwipTory aims to create a seamless user experience for consuming and sharing sto
 **Features**
 
 View captivating stories on various topics.
+
 Like stories to show appreciation and engage with content.
+
 Save stories for later reading and reference.
+
 Share stories with others through a convenient sharing mechanism.
+
 Browse stories based on categories for tailored content discovery.
+
 Register and log in to access additional features.
+
 Add and edit personal stories to contribute content.
+
 Manage likes and bookmarks for personalized interactions.
